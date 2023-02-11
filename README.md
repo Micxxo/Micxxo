@@ -1,5 +1,5 @@
 ### Hello, I am Mico  👋
-MERN developer🎯 From Indonesia.
+Front End developer🎯 From Indonesia.
 
 - 🔭 I’m currently Student from SMKN 4 Bandung
 - 🌱 Dreaming to become fullstack dev but now I’m currently learning Frontend :)
