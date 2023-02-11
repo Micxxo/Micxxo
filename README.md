@@ -2,7 +2,7 @@
 MERN developer🎯 From Indonesia.
 
 - 🔭 I’m currently Student from SMKN 4 Bandung
-- 🌱 I’m currently learning Backend 
+- 🌱 Dreaming to become fullstack dev but now I’m currently learning Frontend :)
 - 📫 How to reach me: [instagram](https://www.instagram.com/mico_feb/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I dont know, AWOG!
