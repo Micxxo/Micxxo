@@ -4,7 +4,7 @@ Fullstack developer🎯 From Indonesia.
 - 🔭 Fresh graduate of SMKN 4 Bandung
 - 💻 2 years of working experience in the IT industry as a Software Engineer
 - 📫 How to reach me: [linkdin](https://www.linkedin.com/in/micofeb/)
-- 🧐 Avaible to Available to work as a web developer (remote/onsite Bandung Jawa Barat, Indonesia)
+- 🧐 Available to work as a web developer (remote/onsite Bandung Jawa Barat, Indonesia)
 
 
 <br/>
