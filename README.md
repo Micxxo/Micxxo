@@ -1,5 +1,5 @@
 ### Hello, I am Mico  👋
-Front End developer🎯 From Indonesia.
+Fullstack developer🎯 From Indonesia.
 
 - 🔭 Fresh graduate of SMKN 4 Bandung
 - 💻 2 years of working experience in the IT industry as a Software Engineer
