@@ -1,11 +1,10 @@
 ### Hello, I am Mico  👋
 Front End developer🎯 From Indonesia.
 
-- 🔭 I’m currently Student from SMKN 4 Bandung
-- 🌱 Dreaming to become fullstack dev but now I’m currently learning Frontend :)
-- 📫 How to reach me: [instagram](https://www.instagram.com/mico_feb/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I dont know
+- 🔭 Fresh graduate of SMKN 4 Bandung
+- 💻 2 years of working experience in the IT industry as a Software Engineer
+- 📫 How to reach me: [linkdin](https://www.linkedin.com/in/micofeb/)
+- 🧐 Avaible to Available to work as a web developer (remote/onsite Bandung Jawa Barat, Indonesia)
 
 
 <br/>
