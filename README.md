@@ -17,7 +17,7 @@ Fullstack developer🎯 From Indonesia.
 <img src="https://img.shields.io/badge/-TypeScript-3178c8?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=next.js&logoColor=black" />
 <img src="https://img.shields.io/badge/-React-60d8f9?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-v10-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/-Tailwind-06b2cf?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white" />
